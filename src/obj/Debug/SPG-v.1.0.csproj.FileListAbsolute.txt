@@ -1,0 +1,13 @@
+C:\Users\thott\source\repos\SPG-v.1.0\bin\Debug\SPG-v.1.0.exe.config
+C:\Users\thott\source\repos\SPG-v.1.0\bin\Debug\SPG-v.1.0.exe
+C:\Users\thott\source\repos\SPG-v.1.0\bin\Debug\SPG-v.1.0.pdb
+C:\Users\thott\source\repos\SPG-v.1.0\bin\Debug\FlatUI.dll
+C:\Users\thott\source\repos\SPG-v.1.0\bin\Debug\FlatUI.pdb
+C:\Users\thott\source\repos\SPG-v.1.0\obj\Debug\SPG-v.1.0.csprojAssemblyReference.cache
+C:\Users\thott\source\repos\SPG-v.1.0\obj\Debug\SPG_v._1._0.Form1.resources
+C:\Users\thott\source\repos\SPG-v.1.0\obj\Debug\SPG_v._1._0.Properties.Resources.resources
+C:\Users\thott\source\repos\SPG-v.1.0\obj\Debug\SPG-v.1.0.csproj.GenerateResource.cache
+C:\Users\thott\source\repos\SPG-v.1.0\obj\Debug\SPG-v.1.0.csproj.CoreCompileInputs.cache
+C:\Users\thott\source\repos\SPG-v.1.0\obj\Debug\SPG-v.1.0.csproj.CopyComplete
+C:\Users\thott\source\repos\SPG-v.1.0\obj\Debug\SPG-v.1.0.exe
+C:\Users\thott\source\repos\SPG-v.1.0\obj\Debug\SPG-v.1.0.pdb
