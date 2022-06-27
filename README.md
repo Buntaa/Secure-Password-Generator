@@ -5,16 +5,25 @@
 
 A secure password generator with a nice UI and Themes.
 
+## Screenshots
 ![alt text](screenshots/Screenshot_1.png "Generator Page")
 
 ![alt text](screenshots/Screenshot_2.png "Options Page")
 
 ![alt text](screenshots/Screenshot_3.png "Themes Page")
 
-PLEASE NOTE BEFORE PRESSING THE GENERATE BUTTON YOU MUST GO TO OPTIONS PAGE AND SELECT WHAT VALUES YOU WANT IN YOUR PASSWOD.
+## Install 
+- Step 1: Open the .sln file in Visual Studio 2019 (or whatever version you use.)
+
+- Step 2: Right click the .sln in Visual Studio and click Build.
+
+- Step 3: Wait for it to finish and check the (bin/Debug) folder. There you should see the FlatUI dll and the .exe
+
+## Usage
+Before Generating a password please go to the options tab and check the boxes that you would need for your password. (Safest option is to check all the boxes and have a length of 16 or higher.)
 
 
-Credits to: https://github.com/saneki-discontinued/FlatUI 
+## Credits
+UI: https://github.com/saneki-discontinued/FlatUI
 
-FlatUI is used for most of the compents on the Form. This is a great tool you can use for free to make slick and nice UI's.
-
+Color Pallete: https://github.com/dracula/dracula-theme
