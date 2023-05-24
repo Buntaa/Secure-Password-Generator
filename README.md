@@ -5,12 +5,6 @@
 
 A secure password generator with a nice UI and Themes.
 
-## Screenshots
-![alt text](screenshots/Screenshot_1.png "Generator Page")
-
-![alt text](screenshots/Screenshot_2.png "Options Page")
-
-![alt text](screenshots/Screenshot_3.png "Themes Page")
 
 ## Install 
 - Step 1: Open the .sln file in Visual Studio 2019 (or whatever version you use.)
